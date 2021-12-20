@@ -1,6 +1,6 @@
 # Read this first
 
-Following are explanations of few programs
+Following are explanations of few codes
 
 
 # PrimeCount++

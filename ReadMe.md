@@ -1,3 +1,7 @@
+# Read this first
+
+
+
 # PrimeCount++
 This is my first program in C++. 
 I am writing codes for personal use but I wont mind sharing them.
